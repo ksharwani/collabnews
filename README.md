@@ -43,8 +43,8 @@ sl.no|s.name|s.marks|
 # Insert a code
 Explain About Sum of Two Numbers using Python
 
-a=4
-b=2
-c=a+b
-print("The Sum {} and {} is {}".format(a,b,c))
+    a=4
+    b=2
+    c=a+b
+    print("The Sum {} and {} is {}".format(a,b,c))
 
