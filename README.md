@@ -22,4 +22,8 @@ ava is a general-purpose, class-based, object-oriented programming language desi
 2. Two
 
 # Tell Me About Your Collage
-My collage name is ***ANDHRA LOYOLA INSTITUATE OF EBGINEERING AND TECHNOLOGY"""
+My collage name is ***ANDHRA LOYOLA INSTITUATE OF EBGINEERING AND TECHNOLOGY***
+
+# Create a link in markdown [text](url)
+
+Ex: [Google](http://www.google.com)
