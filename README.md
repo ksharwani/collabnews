@@ -38,3 +38,4 @@ sl.no|s.name|s.marks|
 
 
 # Insert Image
+![alt gitimg](gitimg.png)
