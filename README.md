@@ -39,6 +39,7 @@ sl.no|s.name|s.marks|
 
 # Insert Image
 ![alt gitimg](gitimg.jpg)
+![alt suriya](suriya.jpg)
 
 # Insert a code
 Explain About Sum of Two Numbers using Python
