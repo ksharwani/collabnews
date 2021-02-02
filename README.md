@@ -27,3 +27,11 @@ My collage name is ***ANDHRA LOYOLA INSTITUATE OF EBGINEERING AND TECHNOLOGY***
 # Create a link in markdown [text](url)
 
 Ex: [Google](http://www.google.com)
+
+# Create a table
+sl.no|s.name|s.marks|
+-----|------|--------
+1|abc|99
+2|cde|98
+3|efg|98
+4|ghi|98
