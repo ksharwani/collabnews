@@ -10,6 +10,8 @@ ava is a general-purpose, class-based, object-oriented programming language desi
 
 # What are the OOP'S concepts in java
 * Class and Object
+  * Class
+    * object
 * Abstraction
 * Encapsulation
 * Inheritence
