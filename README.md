@@ -16,3 +16,10 @@ ava is a general-purpose, class-based, object-oriented programming language desi
 * Encapsulation
 * Inheritence
 * Polymorphism
+
+# Ordered List
+1. One
+2. Two
+
+# Tell Me About Your Collage
+My collage name is ***ANDHRA LOYOLA INSTITUATE OF EBGINEERING AND TECHNOLOGY"""
